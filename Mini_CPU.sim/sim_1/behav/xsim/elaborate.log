@@ -1,0 +1,35 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot cpu_top_behav xil_defaultlib.cpu_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'we' [C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/alu32.v:100]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc
+Compiling module xil_defaultlib.sp
+Compiling module xil_defaultlib.cc
+Compiling module xil_defaultlib.register
+Compiling module xil_defaultlib.fa1
+Compiling module xil_defaultlib.addN_default
+Compiling module xil_defaultlib.subN
+Compiling module xil_defaultlib.mux3
+Compiling module xil_defaultlib.barrel32_default
+Compiling module xil_defaultlib.andG
+Compiling module xil_defaultlib.andGate_default
+Compiling module xil_defaultlib.orG
+Compiling module xil_defaultlib.orGate_default
+Compiling module xil_defaultlib.xorG
+Compiling module xil_defaultlib.xorGate_default
+Compiling module xil_defaultlib.notG
+Compiling module xil_defaultlib.notGate_default
+Compiling module xil_defaultlib.alu32
+Compiling module xil_defaultlib.cpu_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_top_behav

@@ -1,0 +1,19 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/addN.v,1758222365,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/alu32.v,,addN;fa1,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/alu32.v,1758325250,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/andGate.v,,alu32,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/andGate.v,1758222279,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/cc.v,,andG;andGate,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/cc.v,1758498449,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/notGate.v,,cc,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/cpu.v,1758499212,verilog,,,,cpu_top,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/notGate.v,1758222279,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/orGate.v,,notG;notGate,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/orGate.v,1758221516,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/pc.v,,orG;orGate,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/pc.v,1757530285,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/register.v,,pc,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/register.v,1757530111,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/shl32.v,,register,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/shl32.v,1758221797,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/sp.v,,barrel32;mux3,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/sp.v,1757530261,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/subN.v,,sp,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/subN.v,1758221896,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/xorGate.v,,subN,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/xnorGate.v,1757629269,verilog,,,,xnorG;xnorGate,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/xorGate.v,1758222279,verilog,,C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sources_1/new/cpu.v,,xorG;xorGate,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
