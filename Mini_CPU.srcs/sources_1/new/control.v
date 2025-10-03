@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 //====================================================
 // control.v — Hardwired Control Unit (single-cycle)
 // - Decodes 6-bit opcode

@@ -4,6 +4,8 @@
 // - Dual-port: instruction fetch + data access
 // - Stack push/pop for CALL/RET
 //====================================================
+`timescale 1ns/1ps
+
 module memory #(
     parameter IMEM_SIZE = 256,
     parameter DMEM_SIZE = 256
@@ -30,10 +32,19 @@ module memory #(
     output wire [31:0] ret_target     // value popped on RET
 );
 
+
+
+    reg [31:0] IMEM [0:IMEM_SIZE-1];
+    initial begin
+        #22
+        $readmemh("program.hex", IMEM);
+    end
+
+    
     // ---------------------------------------
     // Instruction Memory (IMEM)
     // ---------------------------------------
-    reg [31:0] IMEM [0:IMEM_SIZE-1];
+//    reg [31:0] IMEM [0:IMEM_SIZE-1];
 
     initial begin
         // preload IMEM if needed
@@ -76,3 +87,33 @@ module memory #(
     end
 
 endmodule
+
+
+//20400005
+//2080000A
+//20C00014
+//210000FF
+//2143FFFF
+//01880000
+//01C80000
+//7C600000
+//806E0000
+//03041000
+//03442000
+//02882000
+//02C54000
+//33000002
+//33400001
+//33800001
+//4D800000
+//4DC00001
+//3E000000
+//22000001
+//03C82000
+//590C0002
+//20820001
+//20820001
+//24000005
+//82000000
+//5840FFFE
+//FC000000

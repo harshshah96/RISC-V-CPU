@@ -4,6 +4,7 @@
 // - 2 read ports, 1 write port
 // - synchronous write, asynchronous read
 //==============================================
+`timescale 1ns/1ps
 
 module register (
     input              clk,

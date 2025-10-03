@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module fa1(input a, b, cin, output sum, cout);
   wire axb  = (~a & b) | (a & ~b);       // XOR(a,b)
   assign sum  = (~axb & cin) | (axb & ~cin); // XOR(axb,cin)

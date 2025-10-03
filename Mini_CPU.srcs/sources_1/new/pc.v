@@ -4,6 +4,7 @@
 // - Updates on each clock cycle or reset
 // (clk, rst, pc_next, pc_out)
 //==============================================
+`timescale 1ns/1ps
 
 module pc (
     input         clk,
