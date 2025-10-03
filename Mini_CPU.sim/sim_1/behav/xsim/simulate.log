@@ -1,1 +1,4 @@
 Time resolution is 1 ps
+IMEM[0]=xxxxxxxx, IMEM[1]=xxxxxxxx
+Result stored in DMEM[0] =          x (expected 15)
+$finish called at time : 220 ns : File "C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.srcs/sim_1/new/tb_cpu.v" Line 38

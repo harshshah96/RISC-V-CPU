@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu Sep 25 17:01:17 2025
+# Process ID         : 28412
+# Current directory  : C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.sim/sim_1/behav/xsim
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent33256 C:\Users\Admin\Verilog\Mini_Project\Mini_CPU\Mini_CPU.sim\sim_1\behav\xsim\cpu_top_behav.wdb
+# Log file           : C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.sim/sim_1/behav/xsim/vivado.log
+# Journal file       : C:/Users/Admin/Verilog/Mini_Project/Mini_CPU/Mini_CPU.sim/sim_1/behav/xsim\vivado.jou
+# Running On         : HARSH
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i7-12650H
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 16
+# Host memory        : 16780 MB
+# Swap memory        : 19327 MB
+# Total Virtual      : 36108 MB
+# Available Virtual  : 11145 MB
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\Admin\Verilog\Mini_Project\Mini_CPU\Mini_CPU.sim\sim_1\behav\xsim\cpu_top_behav.wdclose_sim
+im
